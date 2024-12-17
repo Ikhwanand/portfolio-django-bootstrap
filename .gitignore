@@ -1,0 +1,9 @@
+core/__pycache__/
+mywebsite/__pycache__/
+mywebsite/migrations/
+venv/
+db.sqlite3
+mediafiles/
+__pycache__/
+
+.vscode/
